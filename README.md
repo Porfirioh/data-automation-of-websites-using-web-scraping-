@@ -5,3 +5,4 @@ The project is aims to automating the data’s in the job website, which will pr
 SYSTEM ARCHITECTURE
  Architectural Design describes the architecture diagram of the data automation of websites. where user can login to the website and search job or view jobs listing in a home page. The Django framework takes care of data integrity and confidentiality. user credential is stored in server database and admin can add, delete and update permissions. Whenever the search Request has been sent the Job List REST API is retrieves data relevant from the database
 
+https://drive.google.com/file/d/1TMwKJaDKocjELLAijWZ5P8r045QLChFO/view?usp=sharing
